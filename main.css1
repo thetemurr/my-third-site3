@@ -41,10 +41,12 @@ main {
 
 .half-item__image {
     flex: 1;
-    background-image: url('./images/image-header-desktop.jpg') ;
-    z-index: 10;
-    background: rgba(186, 30, 186,hsla(0, 0%, 100%, 0.6));
-}
+    background-image: url('./images/image-header-desktop.jpg');
+    height:100%;
+    backgroun-blend-mode: multiply;
+    background-size:cover;
+    background-repeat: no-repeat;
+    background-color: hsl(274,64%,61%);
 
 .half-item__image img {
     width: 100%;
