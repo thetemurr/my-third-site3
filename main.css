@@ -43,7 +43,7 @@ main {
     flex: 1;
     background-image: url('./images/image-header-desktop.jpg');
     height:100%;
-    backgroun-blend-mode: multiply;
+    background-blend-mode: multiply;
     background-size:cover;
     background-repeat: no-repeat;
     background-color: hsl(274,64%,61%);
