@@ -49,10 +49,6 @@ main {
     background-color: hsl(274,64%,61%);
 }
 
-.half-item__image img {
-    width: 100%;
-}
-
 .half-item h1 {
     color:  hsl(0, 0%, 100%);
     font-family: 'Inter';
